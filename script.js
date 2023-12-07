@@ -41,5 +41,7 @@ const operate = (n1, n2, operator) => {
     }
 };
 
+
+
 // console.log(add(5,5));
 console.log(operate(5,5,'l'));
